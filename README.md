@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # meshrui
 =======
+=======
+>>>>>>> e3689f6448b59218e75e62b860a4392d0d8b608d
 # meshrui
 
 A new Flutter project.
@@ -17,4 +20,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> e3689f6 (Initial commit _ Meshrui)
+=======
+>>>>>>> e3689f6448b59218e75e62b860a4392d0d8b608d
